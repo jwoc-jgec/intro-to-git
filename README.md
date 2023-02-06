@@ -6,4 +6,5 @@
 - Abhi Patel
 - Tania Banerjee
 - Subhajit Bera
+- Nisarga Adhikary
 
