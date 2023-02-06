@@ -1,9 +1,7 @@
 # Introduction to git and GitHub
 ## Add your names here
-
+- Aashi Agrawal
 - Sahil Saha
-
-
 - Gauri Maheshwari
 - S Amandeep
 - Abhi Patel
