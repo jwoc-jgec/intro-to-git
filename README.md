@@ -2,7 +2,7 @@
 ## Add your names here
 - AASHI AGRAWAL
 - Sahil Saha
-
+- Chinmayee Sharma
 
 - Gauri Maheshwari
 - S Amandeep
