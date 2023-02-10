@@ -14,10 +14,13 @@
 - Pranav Malik
 
 - Nisarga Adhikary
-- Srivarsha
--Vivek Kumar Tiwari
--Simran Verma 
 
--Manideep Gummadi
+- Srivarsha
+
+- Vivek Kumar Tiwari
+
+- Simran Verma 
+
+- Manideep Gummadi
 
 - Vivek Sati
