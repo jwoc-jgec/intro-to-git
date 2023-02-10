@@ -1,5 +1,9 @@
 # Introduction to git and GitHub
 ## Add your names here
+
+- Sahil Saha
+- Ashutosh Kumar Singh
+
 - Ayush Morbar
 - AASHI AGRAWAL
 - Sahil Saha
@@ -33,3 +37,4 @@
 
 
 -Tushar Gothwal
+
