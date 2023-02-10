@@ -15,8 +15,13 @@
 
 - Nisarga Adhikary
 - Srivarsha
--Vivek Kumar Tiwari
--Simran Verma 
+- Vivek Kumar Tiwari
+- Simran Verma 
+
+
+- Manideep Gummadi
+- Akshat Tamrakar
 
 -Manideep Gummadi
 -Anvi Amrendra Gautam
+
