@@ -2,7 +2,7 @@
 ## Add your names here
 
 - saed bhati
-
+- Vivek Prajapati
 
 - Sahil Saha
 - Akshat Jain
@@ -28,13 +28,13 @@
 
 - Srivarsha
 
--Vivek Kumar Tiwari
+- Vivek Kumar Tiwari
 
 - Lakkidi Vinay
 
--Simran Verma 
--Arpit AGRAWAL
--Manideep Gummadi
+- Simran Verma 
+- Arpit AGRAWAL
+- Manideep Gummadi
 
 - Vivek Kumar Tiwari
 
@@ -44,28 +44,26 @@
 
 - Vivek Sati
 
-- Vivek Kumar Tiwari
 - Simran Verma 
-
 
 - Manideep Gummadi
 - Akshat Tamrakar
 
--Manideep Gummadi
--Anvi Amrendra Gautam
+- Manideep Gummadi
+- Anvi Amrendra Gautam
 
--Manideep Gummadi
+- Manideep Gummadi
 
--Ekta Roy
-
-
+- Ekta Roy
 
 
--Tushar Gothwal
 
--Manideep Gummadi
+
+- Tushar Gothwal
+
+- Manideep Gummadi
 - Rishikesh K V
 
--Manideep Gummadi
+- Manideep Gummadi
 - Rupansh Verma
 
