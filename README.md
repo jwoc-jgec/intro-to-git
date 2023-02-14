@@ -15,4 +15,4 @@
 - Nisarga Adhikary
 - Srivarsha
 -Vivek Kumar Tiwari
--Diksha Kaithwas
+- Diksha Kaithwas
