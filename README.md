@@ -23,6 +23,7 @@
 - Subhajit Bera
 
 - Pranav Malik
+- Rajender Reddy
 
 - Nisarga Adhikary
 
